@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4e331464d12794489dc40f2d9c55a71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ground: {fileID: 1125097035385920, guid: c502df06d9f24b94ab26643328d48e15, type: 2}
+  - obstacle: {fileID: 1530399882935624, guid: a3363baa3870ddd46bf84af9c621aa9b, type: 2}
+  - apple: {fileID: 1195424754080312, guid: 98ae8f09e919482468bc9bc54427bf27, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
